@@ -8,6 +8,8 @@ Technologies: Java.
 
 <p> 📫 How to reach me: valerie.dev.de@gmail.com. </p>
 
+![Coloredcubes](https://user-images.githubusercontent.com/41258413/164434486-bcc12a44-da57-43f6-a565-8b888b7978b5.jpg)
+
 <!--
 **ValerieRossDEV/ValerieRossDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
