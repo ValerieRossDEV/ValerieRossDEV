@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Technologies: Java
-Currently learning: MySQL
-Currently travelling the world.
+Technologies: Java.
 
-Reach me at valerie.dev.de@gmail.com.
+<p>Currently learning: MySQL. </p>
+
+<p>Currently travelling the world. </p>
+
+<p> 📫 How to reach me: valerie.dev.de@gmail.com. </p>
 
 <!--
 **ValerieRossDEV/ValerieRossDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
