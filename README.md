@@ -16,8 +16,6 @@ Technologies: Java.
 
 <p> </p>
 
-<p>The end. </p>
-
 <!--
 **ValerieRossDEV/ValerieRossDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
