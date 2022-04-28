@@ -2,7 +2,7 @@
 
 Technologies: Java.
 
-<p>Currently learning: MySQL. </p>
+<p>Learning: MySQL. </p>
 
 <p>Currently travelling the world. </p>
 
