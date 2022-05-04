@@ -2,7 +2,7 @@
 
 Technologies: Java.
 
-<p>Learning: MySQL and Android programming. </p>
+<p>Learning: Javscript, MySQL and Android programming. </p>
 
 <p>Currently travelling the world. </p>
 
