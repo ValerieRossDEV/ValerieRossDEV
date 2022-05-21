@@ -10,6 +10,8 @@ Technologies: Java.
 
 [My blog on Hashnode](https://valerieross.hashnode.dev/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRossDEV)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=ValerieRossDEV)
 
 ![Coloredcubes](https://user-images.githubusercontent.com/41258413/164434486-bcc12a44-da57-43f6-a565-8b888b7978b5.jpg)
