@@ -2,7 +2,7 @@
 
 Technologies: Java.
 
-<p>Learning: Javascript, Spring, MySQL and Android programming. </p>
+<p>Learning: CSS, Javascript, Spring and MySQL</p>
 
 <p>Currently travelling the world. </p>
 
@@ -10,7 +10,7 @@ Technologies: Java.
 
 [My blog on Hashnode](https://valerieross.hashnode.dev/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRossDEV)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRossDEV&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=ValerieRossDEV)
 
