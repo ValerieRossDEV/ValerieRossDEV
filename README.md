@@ -4,7 +4,7 @@ Technologies: Java.
 
 <p>Learning: CSS, Javascript, Spring and MySQL</p>
 
-<p>Currently travelling the world. </p>
+<p>Currently travelling the world and doing the 100 days of code challenge. </p>
 
 <p> 📫 How to reach me: valerie.dev.de@gmail.com. </p>
 
