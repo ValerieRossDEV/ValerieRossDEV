@@ -6,7 +6,7 @@ Technologies: Java.
 
 <p>Currently travelling the world and doing the 100 days of code challenge. </p>
 
-<p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRossDEV&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRossDEV&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> 📫 How to reach me: valerie.dev.de@gmail.com. </p>
 
