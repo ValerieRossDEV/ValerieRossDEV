@@ -2,7 +2,7 @@
 
 Technologies: Java.
 
-<p>Learning: SpringBoot and MongoDB </p>
+<p>Learning: SpringBoot and PostgreSQL </p>
 
 <p>Currently travelling the world and doing the 100 days of code challenge. </p>
 
