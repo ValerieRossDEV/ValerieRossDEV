@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Technologies: Java.
+Technologies: Mainly Java, some JavaScript.
 
-<p>Learning: SpringBoot and PostgreSQL </p>
+<p>Learning: Python </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRossDEV&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
