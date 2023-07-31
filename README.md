@@ -2,8 +2,6 @@
 
 Technologies: Mainly Java, some JavaScript.
 
-<p>Learning: Python </p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRossDEV&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> 📫 How to reach me: valerie.dev.de@gmail.com. </p>
